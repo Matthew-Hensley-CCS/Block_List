@@ -1852,3 +1852,4 @@
 ||video9gag.com^
 ||googleadservices.com^
 ||translate.google.com^
+||retro-goal.com^
