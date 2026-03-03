@@ -1853,3 +1853,9 @@
 ||googleadservices.com^
 ||translate.google.com^
 ||retro-goal.com^
+||yoplay.io^
+||ofree.io^
+||ozgames.io^
+||geometrylitepc.io^
+||*.ru^
+||veck.io^
