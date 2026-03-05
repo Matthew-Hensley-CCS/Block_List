@@ -1859,3 +1859,4 @@
 ||geometrylitepc.io^
 ||*.ru^
 ||veck.io^
+||overeasy.club^
