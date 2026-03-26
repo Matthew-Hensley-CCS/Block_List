@@ -1883,3 +1883,7 @@
 ||armor.games^
 ||basketballlegends.pro^
 ||playfusion.org^
+||r74n.com^
+||infinitecraft-game.io^
+||biologyclass.club^
+||*-game.io^
