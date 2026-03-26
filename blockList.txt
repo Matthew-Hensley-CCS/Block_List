@@ -1881,3 +1881,5 @@
 ||classicreload.com^
 ||archive.org^
 ||armor.games^
+||basketballlegends.pro^
+||playfusion.org^
