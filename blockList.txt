@@ -1898,3 +1898,4 @@
 ||bitbucket.io^
 ||retro-goal.com^
 ||yoosfuhl.com^
+||freezenova.com^
