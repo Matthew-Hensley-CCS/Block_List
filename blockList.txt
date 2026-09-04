@@ -1959,3 +1959,8 @@
 ||chromewebstore.google.com^$important
 ||geometrydashlitepc.io^$important
 ||gauthmath.com^$important
+||snow-rider.io^
+||thesantatracker.com^
+||gitsites.io^
+||cloudfree.jp^
+
