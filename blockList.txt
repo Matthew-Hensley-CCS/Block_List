@@ -1899,3 +1899,6 @@
 ||retro-goal.com^
 ||yoosfuhl.com^
 ||freezenova.com^
+||us-school.us^
+||mcdl.net^
+||coolmathplay.com^
