@@ -1964,3 +1964,4 @@
 ||gitsites.io^
 ||cloudfree.jp^
 ||base44.com^
+||mangatown.com^
