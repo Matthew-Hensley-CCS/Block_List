@@ -1968,3 +1968,11 @@
 ||daily-red.com^
 ||youraislopbores.me^
 ||dailyredgame.com^
+||q13x.com^
+||all22pokemon.com^
+||pkmnquiz.com^
+||eaglercraftgame.io^
+||eaglercraft.global.ssl.fastly.net^
+||chromeexperiments.com^
+||appspot.com^
+||firebaseio.com^
